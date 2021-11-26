@@ -6,3 +6,8 @@ Example of a 2x scale factor super-resolution:
 
 
 ![Imgur Image](https://i.imgur.com/whiIT17.png)
+
+Created by:
+Francesco Pettini,
+Francesco Veneziano,
+Alessandro Zaccari
